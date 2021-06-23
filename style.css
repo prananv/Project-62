@@ -1,0 +1,50 @@
+.menu1{
+    list-style: none;
+    font-family: cursive; 
+    position: fixed;
+    top:10px;
+    z-index: 10;
+    cursor: pointer;
+    background-color: black;
+    width: 100%;
+}
+
+body{
+    text-align: center; 
+    background-color: crimson;
+}
+
+.links{
+    float:left;
+    color:darkblue;
+    padding-left: 275px;
+    padding-right: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.links:hover{
+    background-color: aqua;
+    color:black;
+} 
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+#homeimg{
+    width:1400px;
+}
+
+h2{
+  font-size: 50px;  
+}
+
+.img2{
+    width:400px;
+    height: 300px;
+}
